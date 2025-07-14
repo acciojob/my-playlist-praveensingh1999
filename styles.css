@@ -8,7 +8,7 @@ li{
 a{
 	text-decoration-line: none;
 }
-.player_one{
+.player_one, .player_two{
 	background-color: rgb(255, 255, 255);
 	padding: border;
 }
